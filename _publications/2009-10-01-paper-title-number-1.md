@@ -1,5 +1,5 @@
 ---
-title: "Ab-initio thermodynamic and elastic properties of AlNi and AlNi3 intermetallic compounds"
+title: "Ab-initio thermodynamic and elastic properties of AlNi and AlNi₃ intermetallic compounds"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
