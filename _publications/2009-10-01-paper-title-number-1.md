@@ -8,8 +8,8 @@ venue: 'International Journal of Modern Physics B'
 paperurl: 'https://doi.org/10.1142/S0217979218501291'
 citation: 'Shahram Yalameha and Aminollah Vaez'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper, thermodynamic and elastic properties of the AlNi and AlNi3 were investigated using density functional theory (DFT). The full-potential linearized augmented plane-wave (APW) in the framework of the generalized gradient approximation as used as implemented in the Wien2k package. The temperature dependence of thermal expansion coefficient, bulk modulus and heat capacity in a wide range of temperature (0–1600 K) were investigated. The calculated elastic properties of the compounds show that both intermetallic compounds of AlNi and AlNi3 have surprisingly negative Poisson’s ratio (NPR). The results were compared with other experimental and computational data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1142/S0217979218501291)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Shahram Yalameha and Aminollah Vaez, International Journal of Modern Physics B 32 (11), 1850129.
