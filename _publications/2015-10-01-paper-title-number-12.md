@@ -3,7 +3,7 @@ title: "Promising Bialkali Bismuthides Cs(Na, K)<sub>2</sub>Bi for High‐Perfor
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-12
 excerpt: ''
-date: 2021
+date: 2021-10-16
 venue: 'Nanomaterials'
 paperurl: 'https://doi.org/10.3390/nano11102739'
 citation: 'Shahram Yalameha, Zahra Nourbakhsh, Ali Ramazani and Daryoosh Vashaee.'
