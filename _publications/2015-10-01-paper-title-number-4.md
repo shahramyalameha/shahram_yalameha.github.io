@@ -1,5 +1,5 @@
 ---
-title: "The investigation of structural, electronic, elastic and thermodynamic properties of Gd<sup>1-x</sup>Y<x>AuPb alloys: A first principle study"
+title: "The investigation of structural, electronic, elastic and thermodynamic properties of Gd<sub>1-x</sub>Y<x>AuPb alloys: A first principle study"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: ''
