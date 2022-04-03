@@ -13,7 +13,7 @@ I'm a graduate student at [University of Isfahan](https://ui.ac.ir/EN) studying 
 Research interests
 ======
 
-- Quantum nontrivial materials(Topological insulators, Weyl semimetals, Nodal line semimetals, etc.)
+- Quantum nontrivial materials (Topological insulators, Weyl semimetals, Nodal line semimetals, etc.)
 - Mechanical properties (Elastic constants, anomalous and anisotropy mechanical properties, elastic wave velocities)
 - High-performance thermoelectric materials 
 - 2D materials
