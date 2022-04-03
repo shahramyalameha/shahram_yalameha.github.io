@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at [University of Isfahan](https://ui.ac.ir/EN) studying computational condensed matter physics. I'm currently interested in using and developing computational tools to study real strongly correlated materials.
+I'm a graduate student at [University of Isfahan](https://ui.ac.ir/EN) studying computational condensed matter physics. I'm currently interested in using and developing computational tools to study quantum non-trivial materials.
 
 Research interests
 ======
 
+-Quantum nontrivial materials(Topological insulators, Weyl semimetals, Nodal line semimetals, etc.)
+
+-Mechanical properites (Elastic constants, anomalous and anisotropy mechanical properties, elastic wave velocities)
+
+-2D materials
