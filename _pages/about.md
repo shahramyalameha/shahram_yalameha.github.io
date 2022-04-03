@@ -14,7 +14,5 @@ Research interests
 ======
 
 - Quantum nontrivial materials(Topological insulators, Weyl semimetals, Nodal line semimetals, etc.)
-
 - Mechanical properites (Elastic constants, anomalous and anisotropy mechanical properties, elastic wave velocities)
-
 - 2D materials
