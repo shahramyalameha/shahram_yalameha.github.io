@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[**Download CV**](/files/Young_Researcher_CV (3).pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
