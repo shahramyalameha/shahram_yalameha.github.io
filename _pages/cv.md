@@ -25,26 +25,32 @@ Programming Languages
 * Octave
 * Shell
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Projects
+========
+* Elastic Tools Project (ElATools code) 2017 - 2021
+* Higher order Topological index (Z2PI code) 2019 - 202*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Software experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft OFFICE
+* WIEN2k
+* GNUPLOT
+* WANNIER90
+* Wannier-Berri
+* WannierTools
+* WannSymm
+* BoltzTraP
+* Lobster
+* FHI-aims
+* QUANTUM ESPRESSO
+* SPR-KKR
+* VASP
+* Z2PACK
+* GIBBS2
+* Phonopy
+* AELAS
+* ElaStic
+* CALYPOS
 
 Publications
 ======
