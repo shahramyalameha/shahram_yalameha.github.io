@@ -73,4 +73,4 @@ Teaching
 Awards and achievements
 ======================
 * Supported by the Iran’s National Elites Foundation (2020-2022).
-* istinguished researcher in basic sciences (2021).
+* Distinguished researcher in basic sciences (2021).
