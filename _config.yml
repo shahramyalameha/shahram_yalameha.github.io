@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shahram  Yalameha"
+title                    : "Shahram Yalameha"
 title_separator          : "-"
 name                     : &name "Shahram Yalameha"
-description              : &description "PhD candidate and Research Scholar: Condensed Matter Physics"
+description              : &description "PhD Candidate and Research Scholar: Condensed Matter Physics"
 url                      : https://shahramyalameha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shahramyalameha/shahramyalameha.github.io"
