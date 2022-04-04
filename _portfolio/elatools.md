@@ -11,4 +11,4 @@ collection: portfolio
 [![GitHub forks](https://img.shields.io/github/forks/shahramyalameha/ElATools)](https://github.com/shahramyalameha/ElATools/network)
 [![GitHub stars](https://img.shields.io/github/stars/shahramyalameha/ElATools)](https://github.com/shahramyalameha/ElATools/stargazers)
 
-GitHub page: https://github.com/shahramyalameha/ElATools
+[**GitHub page**] https://github.com/shahramyalameha/ElATools
