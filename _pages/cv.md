@@ -17,6 +17,14 @@ Education
 * M.S. in Condensed Matter Physics, University of Isfahan, 2015 - 2017
 * Ph.D in Condensed Matter Physics, University of Isfahan, 2018 (expected)
 
+Programming Languages
+======
+* Python
+* Fortran
+* C++
+* Octave
+* Shell
+
 Work experience
 ======
 * Summer 2015: Research Assistant
