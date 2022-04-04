@@ -70,6 +70,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Awards and achievements
+======================
+* Supported by the Iran’s National Elites Foundation (2020-2022).
+* istinguished researcher in basic sciences (2021).
