@@ -2,7 +2,7 @@
 title: "Insight into the topological phase and elastic properties of halide perovskites CsSnX<sub>3</sub> (X= l, Br, Cl) under hydrostatic pressures"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-7
-excerpt: ''
+excerpt: 'Editor's Pick'
 date: 2020-2-24
 venue: 'Journal of Applied Physics'
 paperurl: 'https://doi.org/10.1063/1.5125920'
