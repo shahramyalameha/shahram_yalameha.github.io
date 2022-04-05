@@ -1,5 +1,5 @@
 ---
-title: "Promising Bialkali Bismuthides Cs(Na, K)<sub>2</sub>Bi for High‐Performance Nanoscale Electromechanical Devices: Prediction of Mechanical and Anisotropic Elastic Properties under Hydrostatic Tension and Compression and Tunable Auxetic Properties"
+title: "Promising Bialkali Bismuthides Cs(Na, K)<sub>2</sub>Bi for High‐Performance Nanoscale Electromechanical Devices: Prediction of Mechanical and Anisotropic Elastic Properties under Hydrostatic Tension and Compression and Tunable Auxetic Properties **(Editor's Pick)**"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-12
 excerpt: ''
