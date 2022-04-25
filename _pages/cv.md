@@ -23,7 +23,7 @@ Programming Languages
 * Fortran
 * C++
 * Octave
-* Shell
+* Bash
 
 Projects
 ========
