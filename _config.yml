@@ -310,4 +310,5 @@ compress_html:
   ignore:
     envs: development
 
-theme: dark #jekyll-theme-cayman
+theme: jekyll-theme-cayman
+minimal_mistakes_skin: "default"
