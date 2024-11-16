@@ -17,3 +17,4 @@ Research interests
 - Mechanical properties (Elastic constants, anomalous and anisotropy mechanical properties, elastic wave velocities)
 - High-performance thermoelectric materials 
 - 2D materials
+- Machine Learning approaches for the prediction of materials
